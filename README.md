@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oriol</h1>
-<h3 align="center">A full-stack web developer from Girona</h3>
+<h3 align="center">A Full-Stack Web Developer from Girona</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=depriius&label=Profile%20views&color=ff0000&style=flat" alt="depriius" /> </p>
 
