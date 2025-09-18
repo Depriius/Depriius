@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 My portfolio is available at [orioldeprius.github.io](orioldeprius.github.io)
+- 👨‍💻 My portfolio is available at [orioldeprius.github.io](https://orioldeprius.github.io/)
 
 - 📫 How to reach me **orioldeprius@gmail.com**
 
